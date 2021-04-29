@@ -1,2 +1,7 @@
 # lireddit
-# lireddit
+
+DOCKER SETUP:
+EXPRESS WEB APP
+NEXT JS SITE
+POSTGRES
+REDIS
